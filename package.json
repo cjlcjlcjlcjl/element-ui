@@ -1,5 +1,5 @@
 {
-  "name": "mkxk-element-ui",
+  "name": "element-ui",
   "version": "2.13.0",
   "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui.common.js",
